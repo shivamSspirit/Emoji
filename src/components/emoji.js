@@ -6,6 +6,12 @@ const emojis = {
 	"😍": "loving eyes",
 	"😊": "emotional",
 	"🎆": "startwars",
+	"👍": "gie thumbs up",
+	"😲": "oh hoo",
+	"🤣": "khi khi khi",
+	"😒": "oye aise kese dekh reha ha",
+	"😎": "yo",
+	ᓚᘏᗢ: "meow",
 };
 
 function Emoji() {
